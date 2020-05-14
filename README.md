@@ -22,6 +22,7 @@ Copy this code on misskey theme editor :
 	tag:'#ebcb8b',
 	bg: '#2b303b',
 	fg: '#e5e7eb',
+	fgHighlighted: 'rgb(163, 190, 140)',
 	panel: '#2f3541',
 	header: 'rgba(47, 53, 65, 0.75)',
 	link: '@accent',
@@ -32,11 +33,12 @@ Copy this code on misskey theme editor :
 	badge:'#bf616a',
 	divider:'rgba(43, 48, 59, 0.7)',
 	driveFolderBg:'@panel',
+	scrollbarHandleHover:'@accent'
 	},
 }
 ```
 
-## Light
+## Light theme
 
 ```
 {
