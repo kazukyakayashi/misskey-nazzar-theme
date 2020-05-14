@@ -35,3 +35,36 @@ Copy this code on misskey theme editor :
 	},
 }
 ```
+
+## Light
+
+```
+{
+	id: 'Nazzar-light',
+
+	name: 'Nazzar-light',
+	author: 'KazukyAkayashi',
+	desc: 'Light theme',
+
+	base: 'light',
+
+	props: {
+	accent: '#bf616a',
+	tag:'#b48ead',
+	bg: '#eff1f5',
+	fg: '#4f5b66',
+	fgHighlighted: 'rgb(163, 190, 140)',
+	panel: '#e7e7e7',
+	header: 'rgba(231, 231, 231, 0.75)',
+	link: '@accent',
+	mention: '#b48ead',
+	hashtag: '@tag',
+	renote: '#a3be8c',
+	pageBg: '@bg',
+	badge:'#bf616a',
+	divider:'rgba(239, 241, 245, 0.7)',
+	driveFolderBg:'@panel',
+	scrollbarHandleHover:'@accent'
+	},
+}
+```
