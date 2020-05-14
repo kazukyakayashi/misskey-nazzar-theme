@@ -33,7 +33,7 @@ Copy this code on misskey theme editor :
 	badge:'#bf616a',
 	divider:'rgba(43, 48, 59, 0.7)',
 	driveFolderBg:'@panel',
-	scrollbarHandleHover:'@accent'
+	scrollbarHandleHover:'@accent',
 	},
 }
 ```
@@ -66,7 +66,7 @@ Copy this code on misskey theme editor :
 	badge:'#bf616a',
 	divider:'rgba(239, 241, 245, 0.7)',
 	driveFolderBg:'@panel',
-	scrollbarHandleHover:'@accent'
+	scrollbarHandleHover:'@accent',
 	},
 }
 ```
