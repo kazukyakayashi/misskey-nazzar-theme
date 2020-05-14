@@ -5,6 +5,8 @@ Theme for Misskey
 
 Copy this code on misskey theme editor :
 
+## Dark theme
+
 ```
 {
 	id: 'Nazzar-dark',
