@@ -19,7 +19,6 @@ Copy this code on misskey theme editor :
 
 	props: {
 	accent: '#bf616a',
-	tag:'#ebcb8b',
 	bg: '#2b303b',
 	fg: '#e5e7eb',
 	fgHighlighted: 'rgb(163, 190, 140)',
@@ -27,7 +26,7 @@ Copy this code on misskey theme editor :
 	header: 'rgba(47, 53, 65, 0.75)',
 	link: '@accent',
 	mention: '#b48ead',
-	hashtag: '@tag',
+	hashtag: '#ebcb8b',
 	renote: '#a3be8c',
 	pageBg: '@bg',
 	badge:'#bf616a',
@@ -52,7 +51,6 @@ Copy this code on misskey theme editor :
 
 	props: {
 	accent: '#bf616a',
-	tag:'#b48ead',
 	bg: '#eff1f5',
 	fg: '#4f5b66',
 	fgHighlighted: 'rgb(163, 190, 140)',
@@ -60,7 +58,7 @@ Copy this code on misskey theme editor :
 	header: 'rgba(231, 231, 231, 0.75)',
 	link: '@accent',
 	mention: '#b48ead',
-	hashtag: '@tag',
+	hashtag: '#b48ead',
 	renote: '#a3be8c',
 	pageBg: '@bg',
 	badge:'#bf616a',
